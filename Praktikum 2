@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Hello, World!</title>
+</head>
+<body>
+  <h1>
+    DAY 1 NGODING
+  </h1>
+  <p>seru bgt lohh...</p>
+  
+  <hr>
+  
+  <h2>ngoding sambil maen</h2>
+  <p style="color: blueviolet; font-size: 18px;">seru juga</p>
+  <p>
+    <b>apa</b>
+    <i>aja</i>
+    <mark>terserah</mark>
+  </p>
+  <br>
+  <img src="https://codingweek.org/wp-content/uploads/2023/09/chris-ried-ieic5Tq8YMk-unsplash-scaled.jpg" width="200" height="200" alt="200"
+    <hr>
+    <h2>laper bet cokk...</h2>
+    <p>link</p>
+    <a href="https://share.google/xUYDQHgKFozVWLIpR">follow this</a>
+    <h1 style="color: blue;">basing</h1>
+    <p>belajar html <br> bersama aiman</p>
+    <p>belajar apa aja.??</p>
+    <ul>
+      <li>a</li>
+      <li>b</li>
+      <li>c</li>
+      <li>d</li>
+    </ul>
+</body>
+</html>
